@@ -21,8 +21,8 @@
 
 | Sub-toolbox | Scope | Current version | Repository | Chinese docs | English |
 | --- | --- | --- | --- | --- | --- |
-| **AFCToolBox** | Rapid UAV flight-controller development toolbox | `v6.01.251215P` | [zqhkd/AFCToolBox](https://github.com/zqhkd/AFCToolBox) | [中文文档](https://github.com/zqhkd/AFCToolBox/blob/main/AFCToolBox-README_CN.md) | [English](https://github.com/zqhkd/AFCToolBox/blob/main/AFCToolBox-README_EN.md) |
-| **ASEToolBox** | Real-time simulation toolbox | `v2.01.260417` | [zqhkd/ASEToolBox](https://github.com/zqhkd/ASEToolBox) | [中文文档](https://github.com/zqhkd/ASEToolBox/blob/main/ASEToolBox-README_CN.md) | [English](https://github.com/zqhkd/ASEToolBox/blob/main/ASEToolBox-README_EN.md) |
+| **AFCToolBox** | Rapid UAV flight-controller development toolbox | `v6.01.251215P` | [zqhkd/AFCToolBox](https://github.com/zqhkd/AFCToolBox) | [中文文档](https://github.com/zqhkd/AFCToolBox/blob/main/README.md) | [English](https://github.com/zqhkd/AFCToolBox/blob/main/README_EN.md) |
+| **ASEToolBox** | Real-time simulation toolbox | `v2.01.260417` | [zqhkd/ASEToolBox](https://github.com/zqhkd/ASEToolBox) | [中文文档](https://github.com/zqhkd/ASEToolBox/blob/main/README.md) | [English](https://github.com/zqhkd/ASEToolBox/blob/main/README_EN.md) |
 
 > Together, the two toolboxes support **full-chain rapid prototyping**: flight-control algorithm modelling, automatic code generation, project build, one-click hardware flashing, real-time simulation, hardware-in-the-loop simulation, bench testing and flight validation.
 

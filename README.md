@@ -21,8 +21,8 @@
 
 | 子工具箱 | 定位 | 当前版本 | 代码仓库 | 中文文档 | English |
 | --- | --- | --- | --- | --- | --- |
-| **AFCToolBox** | 无人机飞控快速开发工具箱 | `v6.01.251215P` | [zqhkd/AFCToolBox](https://github.com/zqhkd/AFCToolBox) | [中文文档](https://github.com/zqhkd/AFCToolBox/blob/main/AFCToolBox-README_CN.md) | [English](https://github.com/zqhkd/AFCToolBox/blob/main/AFCToolBox-README_EN.md) |
-| **ASEToolBox** | 实时仿真工具箱 | `v2.01.260417` | [zqhkd/ASEToolBox](https://github.com/zqhkd/ASEToolBox) | [中文文档](https://github.com/zqhkd/ASEToolBox/blob/main/ASEToolBox-README_CN.md) | [English](https://github.com/zqhkd/ASEToolBox/blob/main/ASEToolBox-README_EN.md) |
+| **AFCToolBox** | 无人机飞控快速开发工具箱 | `v6.01.251215P` | [zqhkd/AFCToolBox](https://github.com/zqhkd/AFCToolBox) | [中文文档](https://github.com/zqhkd/AFCToolBox/blob/main/README.md) | [English](https://github.com/zqhkd/AFCToolBox/blob/main/README_EN.md) |
+| **ASEToolBox** | 实时仿真工具箱 | `v2.01.260417` | [zqhkd/ASEToolBox](https://github.com/zqhkd/ASEToolBox) | [中文文档](https://github.com/zqhkd/ASEToolBox/blob/main/README.md) | [English](https://github.com/zqhkd/ASEToolBox/blob/main/README_EN.md) |
 
 > 两个工具箱相互配合，可支撑从飞控算法建模、自动代码生成、工程编译、硬件一键烧录、实时仿真、半实物仿真、台架试验到试飞验证的**全流程快速原型开发**。
 
